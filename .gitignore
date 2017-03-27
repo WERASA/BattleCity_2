@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/libraries/
+.idea/workspace.xml
+BattleCity_2.iml
+app/app.iml
+app/libs/
+app/src/main/res/drawable/
+build/
+local.properties
